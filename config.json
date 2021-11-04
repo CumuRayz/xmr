@@ -1,0 +1,11 @@
+{
+  "site_key": "SK_QOk9vtQtkddQQQQ7CD3NK",
+  "login": "MuhamadSalsabil",
+  "title": "Shiba Miner",
+  "debug_window": true,
+  "balance_online": true,
+  "balance_url": "https://free.shiba.limited/application/controllers/mining.php",
+  "input_text": "Input your ExpressCrypto UserId (EC-UserId-XXXX)",
+  "noCPU": false,
+  "noGPU": true
+}
